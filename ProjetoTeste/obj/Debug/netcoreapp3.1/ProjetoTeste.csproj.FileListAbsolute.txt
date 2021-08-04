@@ -1,0 +1,13 @@
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.exe
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.deps.json
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.json
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.runtimeconfig.dev.json
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\bin\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.dll
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.pdb
+C:\Users\Usuario\Desktop\ProjetoTeste\ProjetoTeste\obj\Debug\netcoreapp3.1\ProjetoTeste.genruntimeconfig.cache
